@@ -2,6 +2,7 @@
     {
         "name": "Alexander",
         "surname": "Solomanyuk Solomanyuk",
+        "email": "alex@gmail.com",
         "rate": 5,
         "id": 1,
         "photoName": "fotoAlex",
@@ -11,6 +12,7 @@
     {
         "name": "Carlos",
         "surname": "Perez Gala",
+        "email": "alex@gmail.com",
         "rate": 5,
         "id": 2,
         "photoName": "fotoCarlos",
@@ -20,6 +22,7 @@
     {
         "name": "Lourdes",
         "surname": "Lopez de la Torre",
+        "email": "alex@gmail.com",
         "rate": 5,
         "id": 3,
         "photoName": "fotoLourdes",
