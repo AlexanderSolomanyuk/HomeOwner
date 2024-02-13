@@ -4,6 +4,7 @@ import SwiftUI
 struct Owner : Hashable, Codable, Identifiable{
     var name: String
     var surname: String
+    var email: String
     var id: Int
     var rate: Int
     var isOwner: Bool
